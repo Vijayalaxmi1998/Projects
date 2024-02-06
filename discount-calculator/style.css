@@ -1,0 +1,10 @@
+#main{
+    color: white;
+    background: red;
+    width: 300px;
+    height: 230px;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 100px 0px 0px 150px;
+    box-shadow: 5px 10px #151313;
+}
